@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+=======
+el peor dia de la semana
+o un nuevo comienzo
+>>>>>>> c99d9efcbedcbb353d793381867f252e8eabf0db
