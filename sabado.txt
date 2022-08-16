@@ -1,2 +1,7 @@
 sexto dia de la semana
+<<<<<<< HEAD
 modificando KATHE
+=======
+
+el sabado es el mejor dia de la semana porque se puede disfrutar con la familia y amigos
+>>>>>>> 6e3fb72fb795d36a1684c7f9e7bf5ce2dbf20a8c
