@@ -1,3 +1,7 @@
 quinto dia de la semana
+<<<<<<< HEAD
 
 viernes pre fin de semana
+=======
+2do intento
+>>>>>>> 322b640001e67ff76104f169beed2fe96c8651f0
